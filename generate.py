@@ -6,8 +6,7 @@ URL = "https://openlm.ai/chatbot-arena/"
 html = requests.get(URL, timeout=30).text
 soup = BeautifulSoup(html, "html.parser")
 
-# volledige tabel pakken
-table = soup.find("table")
+table = soup.find("table")                 # hele leaderboard
 df = pd.read_html(str(table))[0]
 df.columns = ["Model", "Arena Elo", *df.columns[2:]]
 
