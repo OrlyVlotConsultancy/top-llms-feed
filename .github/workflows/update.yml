@@ -1,19 +1,30 @@
 name: refresh-top-llms
+
 on:
   schedule:
-    - cron:  '0 2 * * *'   # 02:00 UTC dagelijks
-  workflow_dispatch:
+    - cron:  '0 2 * * *'      # elke nacht 02:00 UTC
+  workflow_dispatch:           # handmatig starten
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+
       - uses: actions/setup-python@v5
-        with: {python-version: '3.x'}
-- run: pip install pandas requests beautifulsoup4 html5lib lxml
+        with:
+          python-version: '3.x'
+
+      # alles wat het script nodig heeft
+      - run: pip install pandas requests beautifulsoup4 html5lib lxml
+
+      # maak/werk JSON bij
       - run: python generate.py
+
+      # commit nieuw top-llms.json (alleen als er verandering is)
       - run: |
-          git config user.name "bot"; git config user.email "bot@users.noreply.github.com"
+          git config user.name "bot"
+          git config user.email "bot@users.noreply.github.com"
           git add top-llms.json
           git commit -m "auto-update" || echo "no changes"
           git push
