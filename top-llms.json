@@ -1,42 +1,22 @@
 [
   {
-    "model": "gemini-1.5-pro-api-0409-preview",
-    "elo": 1159.82
+    "Model": "DeepSeek-V3-0324",
+    "Arena Elo": 1368
   },
   {
-    "model": "gemini-1.5-pro-exp-0801",
-    "elo": 1127.89
+    "Model": "DeepSeek-R1",
+    "Arena Elo": 1354
   },
   {
-    "model": "chatgpt-4o-latest",
-    "elo": 1126.69
+    "Model": "Gemma-3-27B-it",
+    "Arena Elo": 1339
   },
   {
-    "model": "gpt-3.5-turbo-0314",
-    "elo": 1103.98
+    "Model": "Qwen3-235B-A22B",
+    "Arena Elo": 1337
   },
   {
-    "model": "bard-jan-24-gemini-pro",
-    "elo": 1094.21
-  },
-  {
-    "model": "claude-1",
-    "elo": 1092.73
-  },
-  {
-    "model": "gemini-advanced-0514",
-    "elo": 1087.54
-  },
-  {
-    "model": "llama-3.1-70b-instruct",
-    "elo": 1087.35
-  },
-  {
-    "model": "gpt-4o-2024-05-13",
-    "elo": 1086.72
-  },
-  {
-    "model": "gpt-4o-2024-08-06",
-    "elo": 1085.6
+    "Model": "Qwen3-32B",
+    "Arena Elo": 1324
   }
 ]
