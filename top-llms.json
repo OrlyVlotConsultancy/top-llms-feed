@@ -1,42 +1,42 @@
 [
   {
-    "Model": "\ud83e\udd47 Gemini-2.5-Pro-Preview-05-06",
-    "Arena Elo": 1446.0
+    "Model": "\ud83e\udd47 Gemini-2.5-Pro-Preview-06-05",
+    "Arena Elo": 1476.0
   },
   {
     "Model": "\ud83e\udd47 Gemini-2.5-Flash-Preview-05-20",
-    "Arena Elo": 1419.0
+    "Arena Elo": 1420.0
   },
   {
     "Model": "\ud83e\udd47 o3-2025-04-16",
-    "Arena Elo": 1419.0
+    "Arena Elo": 1420.0
   },
   {
     "Model": "\ud83e\udd47 ChatGPT-4o-latest (2025-03-26)",
-    "Arena Elo": 1415.0
+    "Arena Elo": 1417.0
   },
   {
     "Model": "\ud83e\udd47 Grok-3-Preview-02-24",
-    "Arena Elo": 1410.0
+    "Arena Elo": 1412.0
   },
   {
     "Model": "\ud83e\udd47 GPT-4.5-Preview",
-    "Arena Elo": 1404.0
-  },
-  {
-    "Model": "\ud83e\udd48 Gemini-2.0-Flash-Thinking-Exp-01-21",
-    "Arena Elo": 1387.0
+    "Arena Elo": 1406.0
   },
   {
     "Model": "\ud83e\udd48 Gemini-2.0-Pro-Exp-02-05",
-    "Arena Elo": 1386.0
+    "Arena Elo": 1388.0
   },
   {
-    "Model": "\ud83e\udd48 GPT-4.1-2025-04-14",
-    "Arena Elo": 1375.0
+    "Model": "\ud83e\udd48 Gemini-2.0-Flash-Thinking-Exp-01-21",
+    "Arena Elo": 1388.0
   },
   {
     "Model": "\ud83e\udd48 DeepSeek-V3-0324",
-    "Arena Elo": 1374.0
+    "Arena Elo": 1377.0
+  },
+  {
+    "Model": "\ud83e\udd48 GPT-4.1-2025-04-14",
+    "Arena Elo": 1377.0
   }
 ]
