@@ -1,22 +1,22 @@
 [
   {
     "Model": "\ud83e\udd47 Gemini-2.5-Pro-Preview-06-05",
-    "Arena Elo": 1479.0
+    "Arena Elo": 1480.0
   },
   {
     "Model": "\ud83e\udd47 o3-2025-04-16",
-    "Arena Elo": 1426.0
+    "Arena Elo": 1427.0
   },
   {
     "Model": "\ud83e\udd47 ChatGPT-4o-latest (2025-03-26)",
-    "Arena Elo": 1425.0
-  },
-  {
-    "Model": "\ud83e\udd47 Gemini-2.5-Flash-Preview-05-20",
-    "Arena Elo": 1420.0
+    "Arena Elo": 1426.0
   },
   {
     "Model": "\ud83e\udd47 DeepSeek-R1-0528",
+    "Arena Elo": 1421.0
+  },
+  {
+    "Model": "\ud83e\udd47 Gemini-2.5-Flash-Preview-05-20",
     "Arena Elo": 1420.0
   },
   {
@@ -37,6 +37,6 @@
   },
   {
     "Model": "\ud83e\udd48 Qwen3-235B-A22B-no-thinking",
-    "Arena Elo": 1386.0
+    "Arena Elo": 1387.0
   }
 ]
