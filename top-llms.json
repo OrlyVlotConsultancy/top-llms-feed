@@ -1,7 +1,11 @@
 [
   {
     "Model": "\ud83e\udd47 Gemini-2.5-Pro",
-    "Arena Elo": 1477.0
+    "Arena Elo": 1474.0
+  },
+  {
+    "Model": "\ud83e\udd47 Grok-4-0709",
+    "Arena Elo": 1440.0
   },
   {
     "Model": "\ud83e\udd47 ChatGPT-4o-latest (2025-03-26)",
@@ -9,11 +13,11 @@
   },
   {
     "Model": "\ud83e\udd47 o3-2025-04-16",
-    "Arena Elo": 1427.0
+    "Arena Elo": 1428.0
   },
   {
     "Model": "\ud83e\udd47 DeepSeek-R1-0528",
-    "Arena Elo": 1425.0
+    "Arena Elo": 1424.0
   },
   {
     "Model": "\ud83e\udd47 Grok-3-Preview-02-24",
@@ -25,18 +29,14 @@
   },
   {
     "Model": "\ud83e\udd47 GPT-4.5-Preview",
-    "Arena Elo": 1414.0
+    "Arena Elo": 1413.0
   },
   {
     "Model": "\ud83e\udd48 Gemini-2.0-Pro-Exp-02-05",
-    "Arena Elo": 1396.0
+    "Arena Elo": 1395.0
   },
   {
     "Model": "\ud83e\udd48 Gemini-2.0-Flash-Thinking-Exp-01-21",
-    "Arena Elo": 1396.0
-  },
-  {
-    "Model": "\ud83e\udd48 Qwen3-235B-A22B-no-thinking",
-    "Arena Elo": 1392.0
+    "Arena Elo": 1395.0
   }
 ]
